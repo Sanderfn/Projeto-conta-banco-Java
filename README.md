@@ -1,2 +1,2 @@
 # Projeto conta banco Java
-O projeto simula a abertura de uma conta bancária recebendo dados por meio do terminal que deverá emitir uma mensagem no final da inserção dos dados.
+Este projeto em Java é um programa simples que solicita ao usuário algumas informações bancárias básicas e depois as exibe de volta na tela, com as informações utilizadas no processo de arbertura da conta
